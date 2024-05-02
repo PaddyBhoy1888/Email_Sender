@@ -1,0 +1,10 @@
+#Log into Gmail
+#Click on id ico, then manage account
+#Select security
+#Select signing into google with 2-step verification
+#Activate 2 factor verification with eithier mobile etc
+#Search for app password
+#Create an App and copy
+#Creat a .env file and save the App password in the file to allow access.
+#Create a .gitignore file and state to ignore the .env file with the sensitive password.
+
